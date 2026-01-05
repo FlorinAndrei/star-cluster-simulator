@@ -2,6 +2,8 @@
 
 Accurate physical simulation of a star cluster, using JAX and (where available) GPU acceleration.
 
+Companion article: https://florin-andrei.medium.com/realistic-star-cluster-simulator-gpu-accelerated-using-jax-and-python-fadce3c71594
+
 Demo on YouTube: https://www.youtube.com/watch?v=1qAy3-AHfuo
 
 ![screenshot](cluster-100k.jpg)
