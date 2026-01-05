@@ -1,0 +1,11 @@
+pip
+wheel
+setuptools
+pipdeptree
+
+numpy
+vispy
+pyglet
+glfw
+PyOpenGL
+h5py
