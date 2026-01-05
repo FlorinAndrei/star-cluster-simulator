@@ -18,6 +18,7 @@ The emphasis is on physical accuracy and realism.
 - Realistic star distributions: the masses are generated via the Kroupa IMF (initial mass function) for young clusters; luminosity includes the main sequence among other distributions (this depends on the --profile option)
 - Physically accurate star measurements: radius is computed from mass via a main sequence model; temperature is computed from radius and luminosity via Stefan-Boltzmann
 - Clusters are at virial equilibrium
+- Cluster evaporation is observed in the simulation, just like in real clusters
 - Visualization shows realistic colors for the stars; RGB is computed from temperature via the Tanner Helland formula; brightness on screen is computed from stellar magnitude
 - 32 bit precision used by default, 64 bit may be used instead if requested
 - Simulation state can be saved, and reloaded later from a file
