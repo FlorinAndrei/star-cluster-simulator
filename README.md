@@ -2,6 +2,8 @@
 
 Accurate physical simulation of a star cluster, using JAX and (where available) GPU acceleration.
 
+Demo on YouTube: https://www.youtube.com/watch?v=1qAy3-AHfuo
+
 ## Features
 
 The emphasis is on physical accuracy and realism.
