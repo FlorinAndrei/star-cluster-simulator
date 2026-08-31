@@ -1,3 +1,5 @@
+
+
 # Star Cluster Simulator
 
 Accurate physical simulation of a star cluster, using JAX and (where available) GPU acceleration.
@@ -110,7 +112,7 @@ A few options discussed in detail:
 
 ### --profile
 
-python main.py --profile young        # Default, full IMF
+python main.py --profile young        # Full IMF
 python main.py --profile globular     # Old cluster like M13
 python main.py --profile intermediate # 1-3 Gyr cluster
 
